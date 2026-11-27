@@ -20,17 +20,19 @@ Using Microsoft Excel, raw data was cleaned, transformed, and analyzed through P
  - Extracted date and month information from the Last Online column.
  - Prepared the selected dataset for analysis.
 
-2. Data Analysis
+2. 🔍 Data Analysis
  - Used Excel Pivot Tables to summarize and analyze user information.
  - Performed gender distribution analysis.
  - Analyzed relationship status across genders.
  - Explored smoking and drinking habits.
-- Examined income distribution.
-- Analyzed user distribution across different age groups.
+ - Examined income distribution.
+ - Analyzed user distribution across different age groups.
 
-📊 Dashboard Preparation
-- Organized analytical results for dashboard reporting.
-- Prepared the workbook with a separate Dashboard sheet for presenting insights.
+3. Key
+
+4. 📊 Dashboard development
+ - Organized analytical results for dashboard reporting.
+ - Prepared the workbook with a separate Dashboard sheet for presenting insights.
 
 # 🛠️ Tools used & Skills
 - Microsoft Excel
