@@ -39,11 +39,12 @@ Using Microsoft Excel, raw data was cleaned, transformed, and analyzed through P
 
 # 🛠️ Tools used & Skills
 - Microsoft Excel
-- pivot table
-- pivot charts
+- pivot table and pivot charts
 - Data cleaning
 - Excel formulas
+- Slicers
 - Data Analysis
+- Dashboard development
 
 # 🎯 Project Objectives
 The main objective of this project is to analyze OkCupid user profile data and identify meaningful patterns and trends in user demographics, relationship status, lifestyle preferences, income distribution, and age groups. The project aims to clean and transform raw data, perform data analysis using Microsoft Excel and Pivot Tables, compare different user categories, and generate valuable insights from the dataset. It also focuses on presenting the analyzed information in an organized dashboard to make the results easier to understand and interpret.
