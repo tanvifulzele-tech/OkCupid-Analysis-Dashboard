@@ -28,7 +28,10 @@ Using Microsoft Excel, raw data was cleaned, transformed, and analyzed through P
  - Examined income distribution.
  - Analyzed user distribution across different age groups.
 
-3. Key
+3. 📈 Data Collection
+ - Imported the original OkCupid dataset containing approximately 59,947 user records and 144 columns.
+ - Reviewed the available user profile attributes.
+
 
 4. 📊 Dashboard development
  - Organized analytical results for dashboard reporting.
