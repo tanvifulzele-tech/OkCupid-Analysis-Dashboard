@@ -13,22 +13,18 @@ Using Microsoft Excel, raw data was cleaned, transformed, and analyzed through P
 
 # 🔄 Project Workflow
 
-Data Collection
-- Imported the original OkCupid dataset containing approximately 59,947 user records and 144 columns.
-- Reviewed the available user profile attributes.
+1. 🧹 Data Cleaning
+ - Selected 24 relevant columns for analysis.
+ - Standardized gender values from 'm' and 'f' into 'male' and 'female'.
+ - Created age-group categories.
+ - Extracted date and month information from the Last Online column.
+ - Prepared the selected dataset for analysis.
 
-Data Cleaning
-- Selected 24 relevant columns for analysis.
-- Standardized gender values from 'm' and 'f' into 'male' and 'female'.
-- Created age-group categories.
-- Extracted date and month information from the Last Online column.
-- Prepared the selected dataset for analysis.
-
-Data Analysis
-- Used Excel Pivot Tables to summarize and analyze user information.
-- Performed gender distribution analysis.
-- Analyzed relationship status across genders.
-- Explored smoking and drinking habits.
+2. Data Analysis
+ - Used Excel Pivot Tables to summarize and analyze user information.
+ - Performed gender distribution analysis.
+ - Analyzed relationship status across genders.
+ - Explored smoking and drinking habits.
 - Examined income distribution.
 - Analyzed user distribution across different age groups.
 
