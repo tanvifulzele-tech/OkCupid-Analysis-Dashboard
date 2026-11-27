@@ -10,6 +10,7 @@ The project involves exploring user demographics, relationship status, lifestyle
 Using Microsoft Excel, raw data was cleaned, transformed, and analyzed through Pivot Tables to generate meaningful insights. The project aims to demonstrate practical data analysis skills and the ability to convert raw data into useful information.
 
 # 📊 Dashboard Preview
+![OkCupid Analysis Dashboard](Dashboard.png)
 
 # 🔄 Project Workflow
 
